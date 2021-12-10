@@ -4,3 +4,5 @@ git init
 cria um novo repositório do Git. Por padrão, o git init vai
 inicializar a configuração do Git para o caminho do subdiretório .git
 
+git config --global user.name
+Serve para fazer login em sua conta virtual digitando seu usuário do GitHub
