@@ -12,3 +12,6 @@ Serve para fazer login em sua conta virtual digitando seu e-mail do GitHub
 
 git remote add origin
 Isso é útil quando se deseja iniciar um repositório localmente e, em seguida, é necessário enviá-lo para um repositório remoto mais tarde.
+
+git push
+O comando git push é mais comumente usado para postar alterações locais em um repositório central. Depois de modificar o repositório local. Execute comandos push para compartilhar as alterações com membros remotos da equipe.
