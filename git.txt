@@ -19,3 +19,6 @@ O comando git push é mais comumente usado para postar alterações locais em um
 git commit
 o commit é a unidade estrutural do plano de projeto Git.
 Eles podem ser vistos como instantâneos ou marcos na linha do tempo de um projeto Git. Eles foram criados usando o comando git commit para capturar o estado do projeto no momento.
+
+git add
+O comando git add é famoso por adicionar "adicionar conteúdo" (propondo quaisquer alterações, sejam alterações, adições ou exclusões) de arquivos locais para o índice ou área de teste. Mais tarde, as alterações serão confirmadas por meio do comando git e, finalmente, enviadas via git push para o repositório remoto.
