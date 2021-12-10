@@ -15,3 +15,7 @@ Isso é útil quando se deseja iniciar um repositório localmente e, em seguida,
 
 git push
 O comando git push é mais comumente usado para postar alterações locais em um repositório central. Depois de modificar o repositório local. Execute comandos push para compartilhar as alterações com membros remotos da equipe.
+
+git commit
+o commit é a unidade estrutural do plano de projeto Git.
+Eles podem ser vistos como instantâneos ou marcos na linha do tempo de um projeto Git. Eles foram criados usando o comando git commit para capturar o estado do projeto no momento.
