@@ -22,3 +22,6 @@ Eles podem ser vistos como instantâneos ou marcos na linha do tempo de um proje
 
 git add
 O comando git add é famoso por adicionar "adicionar conteúdo" (propondo quaisquer alterações, sejam alterações, adições ou exclusões) de arquivos locais para o índice ou área de teste. Mais tarde, as alterações serão confirmadas por meio do comando git e, finalmente, enviadas via git push para o repositório remoto.
+
+git status
+Verifique o status do arquivo. Se houver algum arquivo modificado, adiciona ou excluído. Além disso, se usar uma ramificação no servidor para rastreamento, ele verificará se a versão está adiantada ou atrasada em relação à versão do servidor
