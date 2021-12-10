@@ -9,3 +9,6 @@ Serve para fazer login em sua conta virtual digitando seu usuário do GitHub
 
 git config --global user.email
 Serve para fazer login em sua conta virtual digitando seu e-mail do GitHub
+
+git remote add origin
+Isso é útil quando se deseja iniciar um repositório localmente e, em seguida, é necessário enviá-lo para um repositório remoto mais tarde.
